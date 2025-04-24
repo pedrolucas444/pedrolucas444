@@ -18,8 +18,10 @@
 ## Github Status
 
 
+<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucas444&show_icons=true&theme=algolia)
+</div>
 
 ## Quick Links
 <div> 
@@ -28,7 +30,5 @@
   <a href="https://www.linkedin.com/in/pedrolucas-silva4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-
 
 
