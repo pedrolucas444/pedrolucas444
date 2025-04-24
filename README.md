@@ -17,7 +17,7 @@
 </div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrolucas444&show_icons=true&theme=algolia)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucas444&show_icons=true&theme=algolia)
 
 
 
